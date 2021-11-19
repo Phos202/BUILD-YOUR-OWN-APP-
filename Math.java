@@ -5,8 +5,10 @@ import java.util.Scanner;
 public class Math
 {
 
-public int into()
+public int Sinto()
 {
+    
+    return 0;
 
 }
 
